@@ -58,6 +58,6 @@
 | Apoorv Mittal          | Apoorv012                |  JIIT Noida                                                  |                                               
 |Aman Kumar Mehta       |AmanMehta22                |Amity University Jharkhand                                         |                                                                                             |     
 | Naman Pal              | Naman2251                | IIIT Allahabad
-| Samarth Patel          | capricemoto              | IIT Allahbad                                                     |
+| Samarth Patel          | capricemoto              | IIIT Allahbad                                                     |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
